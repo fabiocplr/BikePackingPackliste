@@ -48,7 +48,7 @@ struct EditItemView: View {
                             weightPerItem: Int(weightText),
                             packed: item.packed
                         )
-                        item = updatedItem  // ✅ Binding direkt überschreiben!
+                        item = updatedItem 
                 }
                 dismiss()
             }
