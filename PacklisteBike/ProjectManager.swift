@@ -89,6 +89,7 @@ class ProjectManager: ObservableObject {
             PackItem(name: "Gaffa", category: "Equipment", quantity: 1, weightPerItem: 100, packed: false),
             PackItem(name: "Kabelbinder", category: "Equipment", quantity: 1, weightPerItem: 100, packed: false),
             PackItem(name: "Ziplock-Bags", category: "Equipment", quantity: 4, weightPerItem: 50, packed: false),
+            PackItem(name: "RadComputer", category: "Zelten", quantity: 1, weightPerItem: 100, packed: false),
 
 
             // Fahrrad
